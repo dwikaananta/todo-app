@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, make postgres database.
+First, create postgres database.
 
 Update env file and set google callback url to be "http://localhost:9999/api/auth/providers"
 
